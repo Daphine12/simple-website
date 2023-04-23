@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(231, 231, 163);
+   
+    
+}
+h1{
+    color: rgb(51, 40, 146);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: rgb(44, 36, 161);
+    background-color: bisque;
+}
+ol{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: rgb(241, 6, 163); 
+    align-items: end;
+    background-color: blanchedalmond;
+}
+h4{
+    color: rgb(148, 44, 44);
+}
+button{
+    background-color:rgb(13, 238, 163)
+    
+}
+header{
+   background: powderblue;
+    font-size: large;
+    -webkit-margin-top-collapse: 10px;
+    align-content: center;
+    font-style: oblique;
+    text-align: center;
+    display: inline block;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-right: 1rem;
+}
+nav ul {
+list-style: none;
+padding: 0%;
+
+
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 10rem;
+}
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+   
+a:hover {
+    background-color: rgb(207, 125, 176);
+    margin-right: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+
+}
+form label{
+    display: block;
+}
+
+tr{
+    background-color: cornflowerblue;
+    color: black;
+    margin-top: 300px;
+    padding-inline: 20rem;
+    display: flexbox;
+
+}
+th{
+    background-color: fuchsia;
+}
+footer {
+background-color: grey;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+font-size: x-large;
+margin-top:  100px;
+block-size: 100px;
+font-style: italic;
+border: 100px;
+color: brown;
+
+}
